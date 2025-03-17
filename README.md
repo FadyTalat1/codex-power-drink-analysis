@@ -13,9 +13,13 @@ This project leverages **Power BI** to explore **customer demographics, purchase
 - Analyzing **marketing channels** effectiveness and reach
 
 ## 📈 Deliverables
-- 📊 **[Power BI Dashboard](./Codex-Power-Drink-Dashboard.pbix)** (Interactive visualization)
-- 📝 **[Presentation Report]([./Codex-Power-Drink-Presentation.pdf](./CodeX-Dashboard-presentaion.pdf)** (Findings & recommendations)
+- 📊 **[Power BI Dashboard]*(Due to technical issues, the dashboard cannot be provided, but the presentation covers all insights in detail.)*
+- 📝 **[Presentation Report](./CodeX-Dashboard-presentaion.pdf)** (Findings & recommendations)
 - ✅ **[Trello Workflow](https://github.com/FadyTalat1/codex-power-drink-analysis/blob/main/Trello2.jpg)** (Project management process)
+
 
 ## 💡 Insights & Impact
 This analysis helps **Codex Power Drink** refine its marketing campaigns, optimize pricing strategies, and improve customer engagement, ensuring sustained brand growth.
+
+---
+For any questions, feel free to reach out! 🚀
