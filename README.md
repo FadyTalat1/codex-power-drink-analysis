@@ -19,20 +19,3 @@ This project leverages **Power BI** to explore **customer demographics, purchase
 
 ## 💡 Insights & Impact
 This analysis helps **Codex Power Drink** refine its marketing campaigns, optimize pricing strategies, and improve customer engagement, ensuring sustained brand growth.
-
----
-
-### 🔗 How to Add Links in README
-1. Upload your files to your GitHub repository.
-2. Use relative paths in the markdown file to link them, like this:
-   ```markdown
-   [Dashboard](./Codex-Power-Drink-Dashboard.pbix)
-   [Presentation](./Codex-Power-Drink-Presentation.pdf)
-   [Trello Workflow](./Trello-Board-Screenshot.png)
-   ```
-3. If your files are stored online (Google Drive, Power BI Service, etc.), use direct URLs instead:
-   ```markdown
-   [View Dashboard](https://your-link-here.com)
-   ```
-
-📌 **Note:** Ensure the file names match exactly with what you uploaded to avoid broken links.
