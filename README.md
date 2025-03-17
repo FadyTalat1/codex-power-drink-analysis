@@ -14,7 +14,7 @@ This project leverages **Power BI** to explore **customer demographics, purchase
 
 ## 📈 Deliverables
 - 📊 **[Power BI Dashboard](./Codex-Power-Drink-Dashboard.pbix)** (Interactive visualization)
-- 📝 **[Presentation Report]([./Codex-Power-Drink-Presentation.pdf](https://github.com/FadyTalat1/codex-power-drink-analysis/blob/main/CodeX%20Dashboard%20presentaion.pdf))** (Findings & recommendations)
+- 📝 **[Presentation Report]([./Codex-Power-Drink-Presentation.pdf](./CodeX-Dashboard-presentaion.pdf)** (Findings & recommendations)
 - ✅ **[Trello Workflow](https://github.com/FadyTalat1/codex-power-drink-analysis/blob/main/Trello2.jpg)** (Project management process)
 
 ## 💡 Insights & Impact
